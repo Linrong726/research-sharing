@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "verified_utc": "2026-09-18T12:49:08.271329+00:00",
+  "repository": "https://github.com/Linrong726/research-sharing",
+  "repository_visibility": "public",
+  "authentication_header_sent": false,
+  "commit_sha": "dcb0f3a1e795ae0e6f1e049e442e9404f96721da",
+  "fixed_version_url": "https://github.com/Linrong726/research-sharing/tree/dcb0f3a1e795ae0e6f1e049e442e9404f96721da/nhanes/v1.4.8-reproduction-r1",
+  "fixed_zip_download_url": "https://raw.githubusercontent.com/Linrong726/research-sharing/dcb0f3a1e795ae0e6f1e049e442e9404f96721da/nhanes/v1.4.8-reproduction-r1/NHANES_v1.4.8_reproduction_r1_UPLOAD_CANDIDATE.zip",
+  "package_bytes": 355682,
+  "package_sha256": "f8422f82571fe0698ea11a4010c95ec4bac8016290ac22bbbeb7c5a3583d1e41",
+  "zip_members": 169,
+  "manifest_members_sha256_verified": 168,
+  "http_response": {
+    "url": "https://raw.githubusercontent.com/Linrong726/research-sharing/dcb0f3a1e795ae0e6f1e049e442e9404f96721da/nhanes/v1.4.8-reproduction-r1/NHANES_v1.4.8_reproduction_r1_UPLOAD_CANDIDATE.zip",
+    "resolved_url": "https://raw.githubusercontent.com/Linrong726/research-sharing/dcb0f3a1e795ae0e6f1e049e442e9404f96721da/nhanes/v1.4.8-reproduction-r1/NHANES_v1.4.8_reproduction_r1_UPLOAD_CANDIDATE.zip",
+    "http_status": 200,
+    "content_type": "application/zip"
+  },
+  "participant_indexed_local_archive_uploaded": false,
+  "doi": null,
+  "archive_status_note": "The package preserves the sealed pre-upload documentation; repository access notes supersede its pre-upload availability status."
+}
